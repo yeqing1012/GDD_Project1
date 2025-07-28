@@ -1,5 +1,5 @@
 # 2025_GDD_Project 1
-Team Name: Klaxon
+Team Name: Klaxon<br/>
 Member: Haoang Zhao, Yeqing Chen
 
 ## Game Overview
