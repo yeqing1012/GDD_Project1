@@ -1,6 +1,6 @@
 # 2025_GDD_Project 1
 **Team Name:** Klaxon<br/>
-**Member:** Haoang Zhao, Yeqing Chen
+**Member:** Haoang Zhao(6411224), Yeqing Chen(6420167)
 
 ## Game Overview
 This is a 2D space shooting game developed based on Java, where the player controls a spaceship to fight with enemies, collect props to improve his abilities, and finally defeat the boss.
