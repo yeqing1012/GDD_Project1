@@ -1,6 +1,6 @@
 # 2025_GDD_Project 1
-Team Name: Klaxon<br/>
-Member: Haoang Zhao, Yeqing Chen
+**Team Name:** Klaxon<br/>
+**Member:** Haoang Zhao, Yeqing Chen
 
 ## Game Overview
 This is a 2D space shooting game developed based on Java, where the player controls a spaceship to fight with enemies, collect props to improve his abilities, and finally defeat the boss.
@@ -41,7 +41,7 @@ This is a 2D space shooting game developed based on Java, where the player contr
   - Blood bar display
 
 ## Game Mechanics
-🎯 Defeat enemies to gain points 
-🎁 Enemy planes have a chance to drop props 
-💥 Crash detection system 
-✨ Explosion animation effects
+🎯 Defeat enemies to gain points<br/>
+🎁 Enemy planes have a chance to drop props<br/> 
+💥 Crash detection system<br/> 
+✨ Explosion animation effects<br/>
