@@ -1,0 +1,15 @@
+type,x,y,time,data
+enemy,100,-50,1000,
+enemy,200,-50,2000,
+powerup,150,-50,2500,speed
+enemy,300,-50,3000,
+powerup,350,-50,3600,multi
+enemy,500,-50,4000,
+enemy,250,-50,5000,
+powerup,400,-50,5200,shield
+enemy,600,-50,6000,
+enemy,100,-50,6800,
+powerup,200,-50,7000,multi
+enemy,300,-50,7800,
+powerup,500,-50,8500,speed
+enemy,400,-50,9000,
